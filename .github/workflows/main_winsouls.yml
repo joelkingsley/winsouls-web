@@ -70,5 +70,5 @@ jobs:
         with:
           app-name: 'winsouls'
           slot-name: 'Production'
-          package: .
+          package: ./dist
           
